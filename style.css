@@ -165,7 +165,8 @@ header .menu {
     position: absolute;
     inset: auto 10px 10px 10px;
 }
-/* Responsiveness */
+
+
 @media screen and (max-width: 678px) {
     .thumbnail {
         justify-content: start;
